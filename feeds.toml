@@ -7,3 +7,13 @@ linkSelector = "a.xe-list-webzine-board-list-item__text-link"
 contentSelector = "span.xe-list-webzine-board-ticket-open"
 imageSelector = "div.xe-list-webzine-board-list-item__img"
 waitUntil = "networkidle"
+
+[danchu_top]
+title = "단추tv"
+url = "https://danchu.tv/ticket_open"
+entrySelector = "div[class='swiper-wrapper xf-main-slide'] a[class^='swiper-slide main-slide-link']"
+titleSelector = "h3.xf-slide-title"
+linkSelector = "a[class^='swiper-slide main-slide-link']"
+contentSelector = "p.xf-slide-date"
+imageSelector = "div.main-slide-img"
+waitUntil = "networkidle"
