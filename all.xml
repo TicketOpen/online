@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 21:09:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Oct 2021 21:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -85,6 +85,222 @@
             <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
             <content:encoded><![CDATA[2021. 6. 29 (화) 19:00]]></content:encoded>
             <enclosure url="https://danchu.tv/storage/app/public/thumbnails/b9/9f/spill_800x800_c69c8f2543e03e865cfc666b0901d2bcb8b4da43.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이나래 / 월리모던 / 서사무엘] The Wonder Weeks #3 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.07 -
+                                                2021.11.07]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/89/4e/spill_400x400_886fc5ce91666ffe3f11b09ee9088938d201d63c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[칠드런크루 / 칼마인 / 블루(BLOO)] The Wonder Weeks #3 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.06 -
+                                                2021.11.06]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/89/4e/spill_400x400_886fc5ce91666ffe3f11b09ee9088938d201d63c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[준 / 린지 / 가호] The Wonder Weeks #3 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05 -
+                                                2021.11.05]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/89/4e/spill_400x400_886fc5ce91666ffe3f11b09ee9088938d201d63c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Museezn Concert 2021 - Reprise #2 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.24 -
+                                                2021.09.24]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/25/2a/spill_400x400_136f5ca4cf0f20acfbac5e5476759324cff60609.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STUDIO SECRET LIVE - 차세대 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.07.13 -
+                                                2021.07.13]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/eb/18/spill_400x400_601578d1f2c04eb1180a2b3f4db1810e1b9943fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원셋 Go Go SING ! Vol.4 가평 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.04.29 -
+                                                2021.04.29]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/e4/cf/spill_400x400_7ab62c974d8161ce915808590521c8f7b6a43159.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FOREST 2021 Halloween] WH3N 단독콘서트 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.31 -
+                                                2021.10.31]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/68/d4/spill_400x400_73f51939fb185d32b70de43b77218d1f50b891d2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[망명열차 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.28 -
+                                                2021.10.28]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/56/a3/spill_400x400_59afb4545ec2163a902711c07cc6cd17e9752040.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손승연 YOLO-OAH 온라인 콘서트 (LIVE+MD) (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18 -
+                                                2021.10.18]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/b7/ff/spill_400x400_6a18e5982796d442571b9e696fd0257bf8d9dcd1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[디에이드의 첫 토크콘서트 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.31 -
+                                                2021.10.31]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/6e/7b/spill_400x400_6f003dd117055ba5c2b7a60fd690bb30f2412fd8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 윤딴딴의 포스트 인 - DAY 2 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13 -
+                                                2021.10.13]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/46/db/spill_400x400_f76ea7f24e00d1bf3d8ca224a2f8520ecff06a8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브로콜리너마저와 함께라면, 당신도 K－인디 작사가! (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.18 -
+                                                2021.09.18]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/ab/e5/spill_400x400_68932683168c19285261c2c739b88d8a3bbe8351.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이나래 / 월리모던 / 서사무엘] The Wonder Weeks #3 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.07 -
+                                                2021.11.07]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/89/4e/spill_400x400_886fc5ce91666ffe3f11b09ee9088938d201d63c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[칠드런크루 / 칼마인 / 블루(BLOO)] The Wonder Weeks #3 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.06 -
+                                                2021.11.06]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/89/4e/spill_400x400_886fc5ce91666ffe3f11b09ee9088938d201d63c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[준 / 린지 / 가호] The Wonder Weeks #3 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05 -
+                                                2021.11.05]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/89/4e/spill_400x400_886fc5ce91666ffe3f11b09ee9088938d201d63c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Museezn Concert 2021 - Reprise #2 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.24 -
+                                                2021.09.24]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/25/2a/spill_400x400_136f5ca4cf0f20acfbac5e5476759324cff60609.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STUDIO SECRET LIVE - 차세대 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.07.13 -
+                                                2021.07.13]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/eb/18/spill_400x400_601578d1f2c04eb1180a2b3f4db1810e1b9943fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원셋 Go Go SING ! Vol.4 가평 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.04.29 -
+                                                2021.04.29]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/e4/cf/spill_400x400_7ab62c974d8161ce915808590521c8f7b6a43159.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FOREST 2021 Halloween] WH3N 단독콘서트 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.31 -
+                                                2021.10.31]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/68/d4/spill_400x400_73f51939fb185d32b70de43b77218d1f50b891d2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[망명열차 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.28 -
+                                                2021.10.28]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/56/a3/spill_400x400_59afb4545ec2163a902711c07cc6cd17e9752040.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손승연 YOLO-OAH 온라인 콘서트 (LIVE+MD) (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18 -
+                                                2021.10.18]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/b7/ff/spill_400x400_6a18e5982796d442571b9e696fd0257bf8d9dcd1.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[디에이드의 첫 토크콘서트 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.31 -
+                                                2021.10.31]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/6e/7b/spill_400x400_6f003dd117055ba5c2b7a60fd690bb30f2412fd8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 윤딴딴의 포스트 인 - DAY 2 (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.13 -
+                                                2021.10.13]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/46/db/spill_400x400_f76ea7f24e00d1bf3d8ca224a2f8520ecff06a8b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브로콜리너마저와 함께라면, 당신도 K－인디 작사가! (단추tv)]]></title>
+            <link>https://TicketOpen.github.io/online/all.xml</link>
+            <guid>https://TicketOpen.github.io/online/all.xml</guid>
+            <pubDate>Sun, 24 Oct 2021 21:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.18 -
+                                                2021.09.18]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/ab/e5/spill_400x400_68932683168c19285261c2c739b88d8a3bbe8351.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
