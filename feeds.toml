@@ -26,3 +26,13 @@ titleSelector = "div[class='sc-1e3tjec-5 sc-1e3tjec-7 bcogIH jxILRF']"
 linkSelector = "a"
 contentSelector = "div[class='sc-1e3tjec-5 sc-1e3tjec-8 bcogIH fEyMUm']"
 waitUntil = "networkidle"
+
+[bbangyatv]
+title = "빵야 TV"
+url = "https://www.bbangyatv.com/main"
+entrySelector = "div[class='d-flex flex-wrap v-card v-card--flat v-sheet theme--light'] div[class='schedule-card v-card v-card--flat v-sheet theme--light']"
+titleSelector = "h4[class='subtitle-1 twoLineEllipsis font-weight-medium']"
+linkSelector = "a"
+contentSelector = "div[class='ml-2']"
+imageSelector = "div[class='v-image__image v-image__image--cover']"
+waitUntil = "networkidle"
