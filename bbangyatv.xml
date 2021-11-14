@@ -4,22 +4,14 @@
         <title>빵야 TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 05:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 17:40:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[THE CON 2021 : 박지훈]]></title>
-            <link>https://www.bbangyatv.com/main</link>
-            <guid>https://www.bbangyatv.com/main</guid>
-            <pubDate>Sun, 14 Nov 2021 05:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[<p data-v-5e133498="" class="mb-0 font-weight-bold caption"> PARKJIHOON Official </p><p data-v-5e133498="" class="mb-0 caption"> 2021.11.14 8:00 pm (KST) </p>]]></content:encoded>
-            <enclosure url="https://static.bbangyatv.com/static/thumbnail/thumbnail_parkjihoon_211114.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[WHO'S NEXT]]></title>
             <link>https://www.bbangyatv.com/main</link>
             <guid>https://www.bbangyatv.com/main</guid>
-            <pubDate>Sun, 14 Nov 2021 05:34:54 GMT</pubDate>
+            <pubDate>Sun, 14 Nov 2021 17:40:46 GMT</pubDate>
             <content:encoded><![CDATA[<p data-v-5e133498="" class="mb-0 font-weight-bold caption"> Official </p><p data-v-5e133498="" class="mb-0 caption"> 2021.12.18 12:00 am (KST) </p>]]></content:encoded>
             <enclosure url="https://static.bbangyatv.com/static/thumbnail/thumb_whosnext_211218.png" length="0" type="image/png"/>
         </item>
@@ -27,8 +19,9 @@
             <title><![CDATA[WHO'S NEXT]]></title>
             <link>https://www.bbangyatv.com/main</link>
             <guid>https://www.bbangyatv.com/main</guid>
-            <pubDate>Sun, 14 Nov 2021 05:34:54 GMT</pubDate>
+            <pubDate>Sun, 14 Nov 2021 17:40:46 GMT</pubDate>
             <content:encoded><![CDATA[<p data-v-5e133498="" class="mb-0 font-weight-bold caption"> Official </p><p data-v-5e133498="" class="mb-0 caption"> 2021.12.24 12:00 am (KST) </p>]]></content:encoded>
+            <enclosure url="https://static.bbangyatv.com/static/thumbnail/thumb_whosnext_211224.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
