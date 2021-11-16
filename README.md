@@ -1,6 +1,9 @@
 # 온라인 공연
 https://ticketopen.github.io/online/all.xml
 
+## 빵야TV
+- https://ticketopen.github.io/online/bbangyatv.xml
+- 
 ## 단추TV
 - https://ticketopen.github.io/online/danchu.xml
 - https://ticketopen.github.io/online/danchu_top.xml
