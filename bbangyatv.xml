@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>빵야 TV</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 13:22:47 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[WHO'S NEXT]]></title>
-            <link>https://www.bbangyatv.com/main</link>
-            <guid>https://www.bbangyatv.com/main</guid>
-            <pubDate>Tue, 16 Nov 2021 13:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<p data-v-5e133498="" class="mb-0 font-weight-bold caption"> Official </p><p data-v-5e133498="" class="mb-0 caption"> 2021.12.24 12:00 am (KST) </p>]]></content:encoded>
-            <enclosure url="https://static.bbangyatv.com/static/thumbnail/thumb_whosnext_211224.png" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.bbangyatv.com/main</id>
+    <title>빵야 TV</title>
+    <updated>2021-11-16T13:24:09.216Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.bbangyatv.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WHO'S NEXT]]></title>
+        <id>https://www.bbangyatv.com/main</id>
+        <link href="https://www.bbangyatv.com/main"/>
+        <updated>2021-11-16T13:24:08.619Z</updated>
+        <content type="html"><![CDATA[<p data-v-5e133498="" class="mb-0 font-weight-bold caption"> Official </p><p data-v-5e133498="" class="mb-0 caption"> 2021.12.24 12:00 am (KST) </p>]]></content>
+    </entry>
+</feed>
