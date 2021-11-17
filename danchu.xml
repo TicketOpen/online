@@ -4,9 +4,17 @@
         <title>단추tv</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 05:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 17:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[손승연 YOLO-OAH(욜로와) TALK SHOW 티켓오픈 안내]]></title>
+            <link>https://danchu.tv/ticket_open/show/05277169-0f7f-4f4b-9dce-71ab0b12d10e</link>
+            <guid>https://danchu.tv/ticket_open/show/05277169-0f7f-4f4b-9dce-71ab0b12d10e</guid>
+            <pubDate>Wed, 17 Nov 2021 17:38:01 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 18 (목) 12:00]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/23/ac/spill_800x800_a0287d654543e65ccd39522d095fb7a421c7104b.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[2021, Autumn Fanmeeting with 리 - 1,2회차 티켓오픈 안내]]></title>
             <link>https://danchu.tv/ticket_open/show/e37c0179-0588-4e97-9fd7-fb9b580eb657</link>
@@ -77,14 +85,6 @@
             <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
             <content:encoded><![CDATA[2021. 8. 27 (Fri) 16:00]]></content:encoded>
             <enclosure url="https://danchu.tv/storage/app/public/thumbnails/97/c5/spill_800x800_2e1d41166f2a9e0b88edfe9d6c92528783a6ddad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로콜리너마저 콘서트＂이른열대야 the 페스티벌＂티켓오픈 안내]]></title>
-            <link>https://danchu.tv/ticket_open/show/8e984a05-2003-43e7-8a5f-b43aa75bfd97</link>
-            <guid>https://danchu.tv/ticket_open/show/8e984a05-2003-43e7-8a5f-b43aa75bfd97</guid>
-            <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 7. 2 (금) 20:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/ab/7d/spill_800x800_2867dc2b5aa94607bf1c63e2743f0cdbea2c5c72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
