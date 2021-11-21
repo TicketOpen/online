@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbangyatv.com/main</id>
     <title>빵야 TV</title>
-    <updated>2021-11-21T05:34:20.710Z</updated>
+    <updated>2021-11-21T17:41:21.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bbangyatv.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[WHO'S NEXT]]></title>
         <id>https://www.bbangyatv.com/main</id>
         <link href="https://www.bbangyatv.com/main"/>
-        <updated>2021-11-21T05:34:20.047Z</updated>
+        <updated>2021-11-21T17:41:21.173Z</updated>
         <content type="html"><![CDATA[<p data-v-5e133498="" class="mb-0 font-weight-bold caption"> Official </p><p data-v-5e133498="" class="mb-0 caption"> 2021.12.24 12:00 am (KST) </p>]]></content>
     </entry>
 </feed>
