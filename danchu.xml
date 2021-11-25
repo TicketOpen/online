@@ -4,9 +4,17 @@
         <title>단추tv</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 05:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 17:42:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 정성하, Winter Limited Concert - 1,2부 티켓오픈 안내]]></title>
+            <link>https://danchu.tv/ticket_open/show/d52ebb7c-8630-41ee-867f-1163520c0d15</link>
+            <guid>https://danchu.tv/ticket_open/show/d52ebb7c-8630-41ee-867f-1163520c0d15</guid>
+            <pubDate>Thu, 25 Nov 2021 17:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 11. 25 (목) 18:00]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/86/89/spill_800x800_2575098339ac7a32e404087130ae4d6ffc2b48c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[손승연 YOLO-OAH(욜로와) TALK SHOW 티켓오픈 안내]]></title>
             <link>https://danchu.tv/ticket_open/show/05277169-0f7f-4f4b-9dce-71ab0b12d10e</link>
@@ -77,14 +85,6 @@
             <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
             <content:encoded><![CDATA[2021. 9. 10 (금) 15:00]]></content:encoded>
             <enclosure url="https://danchu.tv/storage/app/public/thumbnails/ec/e7/spill_800x800_18c2f38e8cbbc08f2ef59fad0030e24f13a02f4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Museezn Concert 2021 - Reprise Ticket Open]]></title>
-            <link>https://danchu.tv/ticket_open/show/8089513c-42cf-468f-bfd7-51cfad2c6e79</link>
-            <guid>https://danchu.tv/ticket_open/show/8089513c-42cf-468f-bfd7-51cfad2c6e79</guid>
-            <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 8. 27 (Fri) 16:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/97/c5/spill_800x800_2e1d41166f2a9e0b88edfe9d6c92528783a6ddad.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
