@@ -4,9 +4,17 @@
         <title>단추tv</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 17:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 05:35:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에이프릴 세컨드 단독 공연 <12월의 돌고래 : SOMEWHERE> 티켓오픈 안내]]></title>
+            <link>https://danchu.tv/ticket_open/show/120b8c19-25b1-4ef9-b4c1-82e42b026125</link>
+            <guid>https://danchu.tv/ticket_open/show/120b8c19-25b1-4ef9-b4c1-82e42b026125</guid>
+            <pubDate>Wed, 01 Dec 2021 05:35:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 2 (목) 12:00]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/16/57/spill_800x800_26fd72949e1ef85b53d45abcebf5b29c003ec656.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 정성하, Winter Limited Concert - 1,2부 티켓오픈 안내]]></title>
             <link>https://danchu.tv/ticket_open/show/d52ebb7c-8630-41ee-867f-1163520c0d15</link>
@@ -77,14 +85,6 @@
             <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
             <content:encoded><![CDATA[2021. 9. 10 (금) 14:00]]></content:encoded>
             <enclosure url="https://danchu.tv/storage/app/public/thumbnails/33/09/spill_800x800_2fa1e576b0bb47b1725edefcad33344b20076862.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[노들섬 2주년 기획공연 <The Wonder Weeks> 온라인 티켓오픈 안내]]></title>
-            <link>https://danchu.tv/ticket_open/show/1cd80519-41ad-4e91-b0ed-b9eda083c625</link>
-            <guid>https://danchu.tv/ticket_open/show/1cd80519-41ad-4e91-b0ed-b9eda083c625</guid>
-            <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 9. 10 (금) 15:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/ec/e7/spill_800x800_18c2f38e8cbbc08f2ef59fad0030e24f13a02f4b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
