@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.bbangyatv.com/main</id>
-    <title>빵야 TV</title>
-    <updated>2021-12-02T05:35:36.302Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.bbangyatv.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Merry Ars-mas! YOUNGJAE Special FAN CON]]></title>
-        <id>https://www.bbangyatv.com/main</id>
-        <link href="https://www.bbangyatv.com/main"/>
-        <updated>2021-12-02T05:35:35.582Z</updated>
-        <content type="html"><![CDATA[<p data-v-5e133498="" class="mb-0 font-weight-bold caption"> YOUNGJAE Official </p><p data-v-5e133498="" class="mb-0 caption"> 2021.12.24 7:00 pm (KST) </p>]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>빵야 TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 02 Dec 2021 17:42:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Merry Ars-mas! YOUNGJAE Special FAN CON]]></title>
+            <link>https://www.bbangyatv.com/main</link>
+            <guid>https://www.bbangyatv.com/main</guid>
+            <pubDate>Thu, 02 Dec 2021 17:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[<p data-v-5e133498="" class="mb-0 font-weight-bold caption"> YOUNGJAE Official </p><p data-v-5e133498="" class="mb-0 caption"> 2021.12.24 7:00 pm (KST) </p>]]></content:encoded>
+            <enclosure url="https://static.bbangyatv.com/static/thumbnail/thumb_youngjae_211224.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
