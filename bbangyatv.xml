@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbangyatv.com/main</id>
     <title>빵야 TV</title>
-    <updated>2021-12-04T05:35:46.730Z</updated>
+    <updated>2021-12-04T17:42:55.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bbangyatv.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Merry Ars-mas! YOUNGJAE Special FAN CON]]></title>
         <id>https://www.bbangyatv.com/main</id>
         <link href="https://www.bbangyatv.com/main"/>
-        <updated>2021-12-04T05:35:46.052Z</updated>
+        <updated>2021-12-04T17:42:54.817Z</updated>
         <content type="html"><![CDATA[<p data-v-5e133498="" class="mb-0 font-weight-bold caption"> YOUNGJAE Official </p><p data-v-5e133498="" class="mb-0 caption"> 2021.12.24 7:00 pm (KST) </p>]]></content>
     </entry>
 </feed>
