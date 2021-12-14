@@ -4,9 +4,25 @@
         <title>단추tv</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 05:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 17:39:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[THE SOLIST] 박순아 x 윤은화 작품발표회 티켓오픈 안내]]></title>
+            <link>https://danchu.tv/ticket_open/show/5f7d15ec-9c38-4d35-9c81-ad45c8a7e9a9</link>
+            <guid>https://danchu.tv/ticket_open/show/5f7d15ec-9c38-4d35-9c81-ad45c8a7e9a9</guid>
+            <pubDate>Tue, 14 Dec 2021 17:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 14 (화) 19:00]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/06/23/spill_800x800_29eb8f6314f68550381892c210910f5956ef3671.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Danny's Day 2021 티켓오픈 안내]]></title>
+            <link>https://danchu.tv/ticket_open/show/71f2d7f1-400c-4c4f-a0ad-453c7e64d48d</link>
+            <guid>https://danchu.tv/ticket_open/show/71f2d7f1-400c-4c4f-a0ad-453c7e64d48d</guid>
+            <pubDate>Tue, 14 Dec 2021 17:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021. 12. 15 (수) 15:00]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/bd/7c/spill_800x800_e5e0487518c80e4ca4b363ebbc53e3280c99dfb8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에이프릴 세컨드 단독 공연 <12월의 돌고래 : SOMEWHERE> 티켓오픈 안내]]></title>
             <link>https://danchu.tv/ticket_open/show/120b8c19-25b1-4ef9-b4c1-82e42b026125</link>
@@ -69,22 +85,6 @@
             <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
             <content:encoded><![CDATA[2021. 10. 5 (화) 18:00]]></content:encoded>
             <enclosure url="https://danchu.tv/storage/app/public/thumbnails/c2/f6/spill_800x800_b002a541b2fe7049db5bb81368eb7b14ba002ce1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 윤딴딴의 포스트 인 티켓오픈 안내]]></title>
-            <link>https://danchu.tv/ticket_open/show/5da3a4aa-e40d-40c7-aebb-f9651c0a47c0</link>
-            <guid>https://danchu.tv/ticket_open/show/5da3a4aa-e40d-40c7-aebb-f9651c0a47c0</guid>
-            <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 9. 17 (금) 17:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/3b/f3/spill_800x800_7f0734ff82f7cc13f60a707ccddc2a7dd2f07508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브로콜리너마저와 함께라면, 당신도 K－인디 작사가! 티켓오픈 안내]]></title>
-            <link>https://danchu.tv/ticket_open/show/b7cbe046-8def-490f-9a2e-688762c2a704</link>
-            <guid>https://danchu.tv/ticket_open/show/b7cbe046-8def-490f-9a2e-688762c2a704</guid>
-            <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 9. 10 (금) 14:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/33/09/spill_800x800_2fa1e576b0bb47b1725edefcad33344b20076862.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
