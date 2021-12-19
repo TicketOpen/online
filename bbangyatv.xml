@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.bbangyatv.com/main</id>
-    <title>빵야 TV</title>
-    <updated>2021-12-18T17:44:03.479Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.bbangyatv.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[북부권 권역별 소상공인을 위한 일상회복 콘서트]]></title>
-        <id>https://www.bbangyatv.com/main</id>
-        <link href="https://www.bbangyatv.com/main"/>
-        <updated>2021-12-18T05:35:16.455Z</updated>
-        <content type="html"><![CDATA[<p data-v-70efa2a2="" class="mb-0 font-weight-bold caption"> 일상회복 콘서트 </p><p data-v-70efa2a2="" class="mb-0 caption"> 2021.12.19 3:00 pm (KST) </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merry Ars-mas! YOUNGJAE Special FAN CON]]></title>
-        <id>https://www.bbangyatv.com/main</id>
-        <link href="https://www.bbangyatv.com/main"/>
-        <updated>2021-12-18T05:35:16.457Z</updated>
-        <content type="html"><![CDATA[<p data-v-70efa2a2="" class="mb-0 font-weight-bold caption"> YOUNGJAE Official </p><p data-v-70efa2a2="" class="mb-0 caption"> 2021.12.24 7:00 pm (KST) </p>]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>빵야 TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 19 Dec 2021 05:35:35 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북부권 권역별 소상공인을 위한 일상회복 콘서트]]></title>
+            <link>https://www.bbangyatv.com/main</link>
+            <guid>https://www.bbangyatv.com/main</guid>
+            <pubDate>Sun, 19 Dec 2021 05:35:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p data-v-70efa2a2="" class="mb-0 font-weight-bold caption"> 일상회복 콘서트 </p><p data-v-70efa2a2="" class="mb-0 caption"> 2021.12.19 3:00 pm (KST) </p>]]></content:encoded>
+            <enclosure url="https://static.bbangyatv.com/static/thumbnail/thumbnail_recovery.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Merry Ars-mas! YOUNGJAE Special FAN CON]]></title>
+            <link>https://www.bbangyatv.com/main</link>
+            <guid>https://www.bbangyatv.com/main</guid>
+            <pubDate>Sun, 19 Dec 2021 05:35:34 GMT</pubDate>
+            <content:encoded><![CDATA[<p data-v-70efa2a2="" class="mb-0 font-weight-bold caption"> YOUNGJAE Official </p><p data-v-70efa2a2="" class="mb-0 caption"> 2021.12.24 7:00 pm (KST) </p>]]></content:encoded>
+            <enclosure url="https://static.bbangyatv.com/static/thumbnail/thumb_youngjae_211224.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
