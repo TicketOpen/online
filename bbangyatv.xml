@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.bbangyatv.com/main</id>
     <title>빵야 TV</title>
-    <updated>2021-12-23T05:36:51.002Z</updated>
+    <updated>2021-12-23T17:44:39.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.bbangyatv.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Uchan X NICKELSON]]></title>
-        <id>https://www.bbangyatv.com/main</id>
-        <link href="https://www.bbangyatv.com/main"/>
-        <updated>2021-12-23T05:36:50.383Z</updated>
-        <content type="html"><![CDATA[<p data-v-70efa2a2="" class="mb-0 font-weight-bold caption"> Uchan </p><p data-v-70efa2a2="" class="mb-0 caption"> 2021.12.23 8:00 pm (KST) </p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Merry Ars-mas! YOUNGJAE Special FAN CON]]></title>
         <id>https://www.bbangyatv.com/main</id>
         <link href="https://www.bbangyatv.com/main"/>
-        <updated>2021-12-23T05:36:50.387Z</updated>
+        <updated>2021-12-23T17:44:38.998Z</updated>
         <content type="html"><![CDATA[<p data-v-70efa2a2="" class="mb-0 font-weight-bold caption"> YOUNGJAE Official </p><p data-v-70efa2a2="" class="mb-0 caption"> 2021.12.24 7:00 pm (KST) </p>]]></content>
     </entry>
 </feed>
