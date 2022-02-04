@@ -4,9 +4,25 @@
         <title>단추tv</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 05:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 17:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한혜리 After Party：Welcome to Hyeri’s world 티켓오픈 안내]]></title>
+            <link>https://danchu.tv/ticket_open/show/ec86c214-83b6-4dca-8c12-b7fb8777ba87</link>
+            <guid>https://danchu.tv/ticket_open/show/ec86c214-83b6-4dca-8c12-b7fb8777ba87</guid>
+            <pubDate>Fri, 04 Feb 2022 17:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 2. 8 (화) 18:00]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/e8/c4/spill_800x800_f54026d8b8989c876efc6ca47962c2d650f56ee8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[한혜리 Winter Fanmeeting (Project : Reboot) 티켓오픈 안내]]></title>
+            <link>https://danchu.tv/ticket_open/show/ca583e4d-c6f0-4d0a-8299-7f3cce460039</link>
+            <guid>https://danchu.tv/ticket_open/show/ca583e4d-c6f0-4d0a-8299-7f3cce460039</guid>
+            <pubDate>Fri, 04 Feb 2022 17:33:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 2. 8 (화) 18:00]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/61/cf/spill_800x800_70ad75b992f747123718d9c5a38b5990fdc3fef0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MBTI 콘서트 <자기만의 방> 온라인 전일권 티켓오픈 안내]]></title>
             <link>https://danchu.tv/ticket_open/show/4145305b-b594-45b2-9e24-55c4305d3099</link>
@@ -69,22 +85,6 @@
             <guid>https://danchu.tv/ticket_open/show/e2699eef-c955-4ef2-abc8-b5d9692bf4a4</guid>
             <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
             <content:encoded><![CDATA[2021. 10. 18 (월) 20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[망명열차 티켓오픈 안내]]></title>
-            <link>https://danchu.tv/ticket_open/show/1d043d0a-d966-4492-bafb-4ff992b0c4cb</link>
-            <guid>https://danchu.tv/ticket_open/show/1d043d0a-d966-4492-bafb-4ff992b0c4cb</guid>
-            <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 10. 14 (목) 18:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/fd/55/spill_800x800_7baa63ed4beb5778323c9b1e516601e7d62e4138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손승연 YOLO-OAH 온라인 콘서트 티켓오픈 안내]]></title>
-            <link>https://danchu.tv/ticket_open/show/5984a38d-9c4a-4fe4-be07-e63b1ecada89</link>
-            <guid>https://danchu.tv/ticket_open/show/5984a38d-9c4a-4fe4-be07-e63b1ecada89</guid>
-            <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 10. 13 (수) 10:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/f4/28/spill_800x800_cd49cc6eb3fad658c366e73de7ff746454f21606.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
