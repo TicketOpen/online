@@ -4,16 +4,16 @@
         <title>빵야 TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 05:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 17:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Icepray X cubume 2022 신년이벤트 1+1]]></title>
+            <title><![CDATA[락킨코리아 22주년 기념 콘서트 <양수리 음악공장>]]></title>
             <link>https://www.bbangyatv.com/main</link>
             <guid>https://www.bbangyatv.com/main</guid>
-            <pubDate>Fri, 21 Jan 2022 05:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[<p data-v-fbe9e076="" class="mb-0 font-weight-bold caption"> NIK Offcial </p><p data-v-fbe9e076="" class="mb-0 caption"> 2022.01.21 8:00 pm (KST) </p>]]></content:encoded>
-            <enclosure url="https://static.bbangyatv.com/static/thumbnail/Thumb_(NIK_2022Hatsuuri).png" length="0" type="image/png"/>
+            <pubDate>Tue, 22 Feb 2022 17:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[<p data-v-fbe9e076="" class="mb-0 font-weight-bold caption"> 양수리 음악공장 </p><p data-v-fbe9e076="" class="mb-0 caption"> 2022.02.24 12:00 pm (KST) </p>]]></content:encoded>
+            <enclosure url="https://static.bbangyatv.com/static/thumbnail/Thumbmail_yangsuri.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
