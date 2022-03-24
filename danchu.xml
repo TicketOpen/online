@@ -4,9 +4,17 @@
         <title>단추tv</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 17:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 05:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2Z - The 1st Moments 티켓오픈 안내]]></title>
+            <link>https://danchu.tv/ticket_open/show/5a200c47-52cd-4818-a8c4-adcd24431574</link>
+            <guid>https://danchu.tv/ticket_open/show/5a200c47-52cd-4818-a8c4-adcd24431574</guid>
+            <pubDate>Thu, 24 Mar 2022 05:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 3. 25 (금) 14:00]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/54/3b/spill_800x800_14f5aee4ab0a1fbd00c0240fed1b2ea19d3bd70f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한혜리 After Party：Welcome to Hyeri’s world 티켓오픈 안내]]></title>
             <link>https://danchu.tv/ticket_open/show/ec86c214-83b6-4dca-8c12-b7fb8777ba87</link>
@@ -78,13 +86,6 @@
             <pubDate>Sat, 13 Nov 2021 05:33:36 GMT</pubDate>
             <content:encoded><![CDATA[2021. 11. 15 (월) 18:00]]></content:encoded>
             <enclosure url="https://danchu.tv/storage/app/public/thumbnails/03/79/spill_800x800_58524df59084e4b8e0435431f21c67f5fca95465.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FOREST 2021 Halloween] WH3N 단독콘서트 티켓오픈 안내]]></title>
-            <link>https://danchu.tv/ticket_open/show/e2699eef-c955-4ef2-abc8-b5d9692bf4a4</link>
-            <guid>https://danchu.tv/ticket_open/show/e2699eef-c955-4ef2-abc8-b5d9692bf4a4</guid>
-            <pubDate>Sun, 24 Oct 2021 20:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 10. 18 (월) 20:00]]></content:encoded>
         </item>
     </channel>
 </rss>
