@@ -4,9 +4,17 @@
         <title>단추tv</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 17:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 05:35:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A Midsummer Night's Dream 티켓오픈 안내]]></title>
+            <link>https://danchu.tv/ticket_open/show/f8c05237-b6d5-49be-848b-9704edee5e52</link>
+            <guid>https://danchu.tv/ticket_open/show/f8c05237-b6d5-49be-848b-9704edee5e52</guid>
+            <pubDate>Sat, 25 Jun 2022 05:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 6. 27 (MON) 6PM]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/67/0a/spill_800x800_9583d1f734c0abe13cf15ae1127b6ea02e93f983.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[JUST B 1st Mini Concert : JUST Be with you 티켓오픈 안내]]></title>
             <link>https://danchu.tv/ticket_open/show/7fa0c835-b5c5-4f19-88a2-4255c69f2675</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Dec 2021 17:38:42 GMT</pubDate>
             <content:encoded><![CDATA[2021. 12. 15 (수) 15:00]]></content:encoded>
             <enclosure url="https://danchu.tv/storage/app/public/thumbnails/bd/7c/spill_800x800_e5e0487518c80e4ca4b363ebbc53e3280c99dfb8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이프릴 세컨드 단독 공연 <12월의 돌고래 : SOMEWHERE> 티켓오픈 안내]]></title>
-            <link>https://danchu.tv/ticket_open/show/120b8c19-25b1-4ef9-b4c1-82e42b026125</link>
-            <guid>https://danchu.tv/ticket_open/show/120b8c19-25b1-4ef9-b4c1-82e42b026125</guid>
-            <pubDate>Wed, 01 Dec 2021 05:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 2 (목) 12:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/16/57/spill_800x800_26fd72949e1ef85b53d45abcebf5b29c003ec656.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
