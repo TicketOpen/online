@@ -4,9 +4,17 @@
         <title>단추tv</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 05:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 17:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GREATGUYS ON : OFFLINE XR FANMEETING "BLIND LOVE" 티켓오픈 안내]]></title>
+            <link>https://danchu.tv/ticket_open/show/a17b1070-5e3b-41be-9dba-891bcfa8d0eb</link>
+            <guid>https://danchu.tv/ticket_open/show/a17b1070-5e3b-41be-9dba-891bcfa8d0eb</guid>
+            <pubDate>Wed, 27 Jul 2022 17:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022. 7. 28 (THU) 6PM]]></content:encoded>
+            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/6d/fb/spill_800x800_5a04d54f09c670fe64581333f6ed4d2ac732193e.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[WELCOME! GATO's HOME PARTY 티켓오픈 안내]]></title>
             <link>https://danchu.tv/ticket_open/show/cdec6929-9c1e-4da2-904a-3aeb189e63d5</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 24 Jan 2022 17:39:19 GMT</pubDate>
             <content:encoded><![CDATA[2022. 1. 14 (화) 19:00]]></content:encoded>
             <enclosure url="https://danchu.tv/storage/app/public/thumbnails/b8/d2/spill_800x800_d9f25c4a297beafdefb8a5c5ca37b798baa5b75a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[THE SOLIST] 박순아 x 윤은화 작품발표회 티켓오픈 안내]]></title>
-            <link>https://danchu.tv/ticket_open/show/5f7d15ec-9c38-4d35-9c81-ad45c8a7e9a9</link>
-            <guid>https://danchu.tv/ticket_open/show/5f7d15ec-9c38-4d35-9c81-ad45c8a7e9a9</guid>
-            <pubDate>Tue, 14 Dec 2021 17:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021. 12. 14 (화) 19:00]]></content:encoded>
-            <enclosure url="https://danchu.tv/storage/app/public/thumbnails/06/23/spill_800x800_29eb8f6314f68550381892c210910f5956ef3671.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
